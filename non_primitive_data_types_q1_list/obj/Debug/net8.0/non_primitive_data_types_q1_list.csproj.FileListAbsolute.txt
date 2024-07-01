@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\bin\Debug\net8.0\non_primitive_data_types_q1_list.exe
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\bin\Debug\net8.0\non_primitive_data_types_q1_list.deps.json
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\bin\Debug\net8.0\non_primitive_data_types_q1_list.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\bin\Debug\net8.0\non_primitive_data_types_q1_list.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\bin\Debug\net8.0\non_primitive_data_types_q1_list.pdb
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\refint\non_primitive_data_types_q1_list.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.pdb
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\non_primitive_data_types_q1_list.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q1_list\obj\Debug\net8.0\ref\non_primitive_data_types_q1_list.dll

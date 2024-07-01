@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\bin\Debug\net8.0\non_primitive_data_types_q5_enum.exe
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\bin\Debug\net8.0\non_primitive_data_types_q5_enum.deps.json
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\bin\Debug\net8.0\non_primitive_data_types_q5_enum.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\bin\Debug\net8.0\non_primitive_data_types_q5_enum.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\bin\Debug\net8.0\non_primitive_data_types_q5_enum.pdb
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\refint\non_primitive_data_types_q5_enum.dll
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.pdb
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\non_primitive_data_types_q5_enum.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L5_non_Primitive_Data_types\non_primitive_data_types_q5_enum\obj\Debug\net8.0\ref\non_primitive_data_types_q5_enum.dll

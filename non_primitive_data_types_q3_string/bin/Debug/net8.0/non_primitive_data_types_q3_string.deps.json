@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "non_primitive_data_types_q3_string/1.0.0": {
+        "runtime": {
+          "non_primitive_data_types_q3_string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "non_primitive_data_types_q3_string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
